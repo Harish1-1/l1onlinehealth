@@ -1,11 +1,11 @@
-/* src/components/BecomeACCA.css */
+
 .become-acca {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   padding: 40px 20px;
-  background-color: #ecf0f1; /* Softer background color */
+  background-color: #ecf0f1;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
@@ -13,7 +13,7 @@
 }
 
 .become-acca .acca-card {
-  flex: 0.2; /* Decreased width */
+  flex: 0.2; 
   margin: 20px;
   padding: 20px;
   background-color: #ffffff;
@@ -22,7 +22,7 @@
 }
 
 .become-acca .call-back {
-  flex: 0.6; /* Increased width */
+  flex: 0.6; 
   margin: 20px;
   background-color: #ffffff;
   padding: 20px;
@@ -31,7 +31,7 @@
 }
 
 .become-acca .call-back h3 {
-  color: #2c3e50; /* Darker text color for contrast */
+  color: #2c3e50; 
 }
 
 .become-acca .call-back form {
@@ -47,7 +47,7 @@
 }
 
 .become-acca .call-back form input:focus {
-  border-color: #18bc9c; /* Accent color for input focus */
+  border-color: #18bc9c;
   box-shadow: 0 0 5px rgba(24, 188, 156, 0.5);
 }
 
@@ -58,10 +58,10 @@
 }
 
 .stat-item {
-  background-color: #18bc9c; /* Accent background color */
-  padding: 20px; /* Increased padding */
+  background-color: #18bc9c; 
+  padding: 20px; 
   border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   text-align: center;
-  color: #ffffff; /* White text color for contrast */
+  color: #ffffff; 
 }
