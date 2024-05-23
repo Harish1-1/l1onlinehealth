@@ -1,4 +1,4 @@
-// src/components/WhatYouLearn.js
+
 import React from 'react';
 import './WhatYouLearn.css';
 
