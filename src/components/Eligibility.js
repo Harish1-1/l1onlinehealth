@@ -1,4 +1,4 @@
-// src/components/Eligibility.js
+
 import React from 'react';
 import './Eligibility.css';
 
