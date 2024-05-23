@@ -1,0 +1,21 @@
+/* src/components/KickOffJourney.css */
+.kick-off-journey {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .journey-card {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: #f4f7fc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .journey-card .card-body {
+    padding: 20px;
+  }
+  
