@@ -1,4 +1,4 @@
-// src/components/KickOffJourney.js
+
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 import { Zoom } from 'react-reveal';
