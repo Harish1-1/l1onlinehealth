@@ -1,4 +1,4 @@
-// src/components/BecomeACCA.js
+
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 import { Fade } from 'react-reveal';
