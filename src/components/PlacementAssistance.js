@@ -1,4 +1,4 @@
-// src/components/PlacementAssistance.js
+
 import React from 'react';
 import './PlacementAssistance.css';
 
